@@ -15,6 +15,10 @@ It is one of the most widely used tools for computer vision and image processing
    Edge detection is an image processing technique for finding the boundaries of objects within images. It works by detecting discontinuities in brightness. 
    Edge detection is used for image segmentation and data extraction in areas such as image processing, computer vision, and machine vision.
 
+   ![image](https://user-images.githubusercontent.com/43001724/176363376-1ab57806-2ee8-42f7-9991-6bcf991e3de4.png)
+   Figure above shows the Sobel method. The Sobel operator, sometimes called the Sobel–Feldman operator or Sobel filter, is used in image processing and computer vision,    particularly within edge detection algorithms where it creates an image emphasising edges.
+   
+
 - Dilation, Opening, Closing, And Erosion
 
 - Perspective Transformation
