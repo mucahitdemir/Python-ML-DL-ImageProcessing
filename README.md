@@ -10,7 +10,9 @@ I am started to add my Kaggle achievements here. It will include numerous functi
 It is one of the most widely used tools for computer vision and image processing tasks. It is used in various applications such as face detection, video capturing, tracking moving objects, object disclosure, nowadays in Covid applications such as face mask detection, social distancing, and many more.
 
 **Table of Contents**
-- Edge Detection and Image Gradients
+- **Edge Detection and Image Gradients**
+   Edge detection is an image processing technique for finding the boundaries of objects within images. It works by detecting discontinuities in brightness. 
+   Edge detection is used for image segmentation and data extraction in areas such as image processing, computer vision, and machine vision.
 
 - Dilation, Opening, Closing, And Erosion
 
