@@ -21,7 +21,11 @@ It is one of the most widely used tools for computer vision and image processing
    
 
 - **Dilation, Opening, Closing, And Erosion**
-   Opening and Closing are dual operations used in Digital Image Processing for restoring an eroded image. Opening is generally used to restore or recover the original      image to the maximum possible extent. Closing is generally used to smoother the contour of the distorted image and fuse back the narrow breaks and long thin gulfs.      Closing is also used for getting rid of the small holes of the obtained image. The combination of Opening and Closing is generally used to clean up artifacts in the      segmented image before using the image for digital analysis.
+
+   Opening and Closing are dual operations used in Digital Image Processing for restoring an eroded image. Opening is generally used to restore or recover the original      image to the maximum possible extent. 
+   Closing is generally used to smoother the contour of the distorted image and fuse back the narrow breaks and long thin gulfs.      
+   Closing is also used for getting rid of the small holes of the obtained image. 
+   The combination of Opening and Closing is generally used to clean up artifacts in the segmented image before using the image for digital analysis.
 
 
 
